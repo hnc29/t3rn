@@ -5,7 +5,7 @@
 Simply run this one-liner in your terminal:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/hnc29/t3rnx/main/runit.sh)
+bash <(curl -s https://raw.githubusercontent.com/hnc29/t3rnx/refs/heads/main/runit.sh)
 ```
 
 💡 **What this does:**
