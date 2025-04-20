@@ -107,9 +107,9 @@ Environment=LOG_PRETTY=false
 Environment=EXECUTOR_PROCESS_BIDS_ENABLED=true
 Environment=EXECUTOR_PROCESS_ORDERS_ENABLED=true
 Environment=EXECUTOR_PROCESS_CLAIMS_ENABLED=true
-Environment=EXECUTOR_MAX_L3_GAS_PRICE=3000
-Environment=EXECUTOR_MIN_TX_ETH=2
-Environment=EXECUTOR_MAX_TX_GAS=2000000
+Environment=EXECUTOR_MAX_L3_GAS_PRICE=1000
+#Environment=EXECUTOR_MIN_TX_ETH=2
+#Environment=EXECUTOR_MAX_TX_GAS=2000000
 Environment=PRIVATE_KEY_LOCAL=$PRIVATE_KEY_LOCAL
 Environment=NETWORKS_DISABLED=blast-sepolia
 Environment=ENABLED_NETWORKS=base-sepolia,optimism-sepolia,l2rn,unichain-sepolia,monad-testnet
